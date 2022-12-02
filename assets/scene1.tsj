@@ -1,0 +1,14 @@
+{ "columns":6,
+ "image":"scene.png",
+ "imageheight":120,
+ "imagewidth":192,
+ "margin":0,
+ "name":"scene1",
+ "spacing":0,
+ "tilecount":18,
+ "tiledversion":"1.9.2",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.9"
+}
